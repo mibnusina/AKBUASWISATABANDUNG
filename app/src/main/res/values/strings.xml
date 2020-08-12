@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Benu Wisata</string>
+    <string name="_10117279">10117279</string>
+    <string name="app">App</string>
+    <string name="tempat_favorite">Tempat Favorite</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="keluar">Keluar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+    <string name="access_token">sk.eyJ1IjoicmFqYWZpa2hzYW4iLCJhIjoiY2tkbnh2aHliMGIxdzJycW9kZnVpaGNmaCJ9.j9b3gX2H1gqGn50kBgvpew</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="navigasi">Navigasi</string>
+    <string name="about">Aplikasi ini dibuat untuk mempermudah masyarakat untuk menemukan lokasi-lokasi wisata yang ada di Bandung. Aplikasi ini juga dapat memberi arah untuk sampai ke tempat wisata nya dengan menggunakan map.</string>
+    <string name="exit">Exit</string>
+    <string name="wisata">Wisata</string>
+    <string name="wisata_favorite">Wisata Favorite</string>
+</resources>

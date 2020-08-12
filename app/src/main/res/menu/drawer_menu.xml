@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/index"
+            android:icon="@drawable/home_white"
+            android:title="@string/home" />
+    </group>
+
+    <item android:title="@string/tentang_saya">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/profile_white"
+                android:title="@string/profile" />
+        </menu>
+    </item>
+
+    <item android:title="@string/wisata">
+        <menu>
+            <item
+                android:id="@+id/favList"
+                android:icon="@drawable/fav_white"
+                android:title="@string/wisata_favorite" />
+        </menu>
+    </item>
+
+    <item android:title="@string/exit">
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/exit_white"
+                android:title="@string/keluar" />
+        </menu>
+    </item>
+
+</menu>
